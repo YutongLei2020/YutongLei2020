@@ -16,7 +16,7 @@ I'm Yutong Lei, a software engineer and AI/ML practitioner who enjoys building p
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-- **Languages:** Python, JavaScript, TypeScript, SQL
+- **Languages:** Python, JavaScript, TypeScript, SQL, R
 - **Backend & Cloud:** FastAPI, REST APIs, AWS, Elasticsearch, Docker, Terraform
 - **AI/ML:** PyTorch, TensorFlow, Hugging Face, AWS Bedrock
 - **Frontend:** React
