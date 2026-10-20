@@ -5,7 +5,7 @@ I'm Yutong Lei, a software engineer and AI/ML practitioner who enjoys building p
 ## About Me
 
 - M.S. in Computer Science from the **University of California, Irvine (UC Irvine)**.
-- Interested in backend development, applied AI, and machine learning.
+- Interested in machine learning, backend development, and applied AI.
 - Seeking **Software Engineer, AI Engineer, and Machine Learning Engineer** opportunities.
 
 ## Tech Stack
