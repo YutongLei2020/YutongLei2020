@@ -1,6 +1,6 @@
 # Hi, I'm Yutong!
 
-I'm Yutong Lei, a software engineer and AI/ML practitioner who enjoys building practical AI-powered applications. My experience spans backend API development, LLM-powered search, computer vision, and deep learning research.
+I'm Yutong Lei, a software engineer and AI/ML practitioner who enjoys building practical AI-powered applications. My experience spans backend APIs, retrieval-augmented generation (RAG), computer vision, and deep learning research.
 
 ## About Me
 
@@ -19,6 +19,7 @@ I'm Yutong Lei, a software engineer and AI/ML practitioner who enjoys building p
 - **Languages:** Python, JavaScript, TypeScript, SQL, R
 - **Backend & Cloud:** FastAPI, REST APIs, AWS, Elasticsearch, Docker, Terraform
 - **AI/ML:** PyTorch, TensorFlow, Hugging Face, AWS Bedrock
+- **Applied AI:** RAG, hybrid search, reranking
 - **Frontend:** React
 - **Tools:** Git, Linux
 
@@ -33,6 +34,10 @@ Developed an LLM-powered Smart Search API with Python, FastAPI, AWS Bedrock, and
 Worked on computer vision, deep learning, model distillation, and biomedical data analysis, connecting machine learning research with practical data challenges.
 
 ## Featured Projects
+
+### AI4Bio Research Explorer — RAG for Scientific Literature
+
+Built a full-stack application for exploring AI research in single-cell genomics with Python, FastAPI, Elasticsearch, React, and TypeScript. Combines keyword and semantic search with reranking, passage-level source inspection, and optional LLM-generated answers with citations.
 
 ### [OmegaGenome — Foundation Model Distillation](https://github.com/aicb-ZhangLabs/OmegaGenome)
 
@@ -50,5 +55,5 @@ Developed a search API using Python, FastAPI, AWS Bedrock, and Elasticsearch to 
 
 ## Connect
 
-- **LinkedIn:** www.linkedin.com/in/yutong-lei-11bb13222
-- **Email:** leiyutong8972@gmail.com
+- **LinkedIn:** [Yutong Lei](https://www.linkedin.com/in/yutong-lei-11bb13222/)
+- **Email:** [leiyutong8972@gmail.com](mailto:leiyutong8972@gmail.com)
