@@ -19,7 +19,6 @@ I'm Yutong Lei, a software engineer and AI/ML practitioner who enjoys building p
 - **Languages:** Python, JavaScript, TypeScript, SQL, R
 - **Backend & Cloud:** FastAPI, REST APIs, AWS, Elasticsearch, Docker, Terraform
 - **AI/ML:** PyTorch, TensorFlow, Hugging Face, AWS Bedrock
-- **Applied AI:** RAG, hybrid search, reranking
 - **Frontend:** React
 - **Tools:** Git, Linux
 
