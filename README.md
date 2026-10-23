@@ -34,7 +34,7 @@ Worked on computer vision, deep learning, model distillation, and biomedical dat
 
 ## Featured Projects
 
-### AI4Bio Research Explorer — RAG for Scientific Literature
+### [AI4Bio Research Explorer — RAG for Scientific Literature](https://github.com/YutongLei2020/ai4bio-research-explorer)
 
 Built a full-stack application for exploring AI research in single-cell genomics with Python, FastAPI, Elasticsearch, React, and TypeScript. Combines keyword and semantic search with reranking, passage-level source inspection, and optional LLM-generated answers with citations.
 
